@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\bin\Debug\Paint.sistem-01.03.2023.exe.config
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\bin\Debug\Paint.sistem-01.03.2023.exe
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\bin\Debug\Paint.sistem-01.03.2023.pdb
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem-01.03.2023.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem_01._03._2023.Form1.resources
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem_01._03._2023.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem-01.03.2023.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem-01.03.2023.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem-01.03.2023.exe
+C:\Users\Lenovo\source\repos\Paint.sistem-01.03.2023\Paint.sistem-01.03.2023\obj\Debug\Paint.sistem-01.03.2023.pdb
